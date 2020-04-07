@@ -1,0 +1,4 @@
+ansible-vault edit group_vars/all/pass.yml
+Vault password:shweta
+ec2_access_key:AKIAIYNHUSY2M4EXLT6Q         
+ec2_secret_key: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
